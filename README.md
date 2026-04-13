@@ -11,16 +11,16 @@ Installer WordPress en local, comprendre le fonctionnement d'un CMS, et créer u
 ## Aperçu du site
 
 ### Page d'accueil
-![Page d'accueil](asset/Screenshot%202026-04-13%20at%2015-58-08%20Blog%20de%20Nordine%20%E2%80%93%20Mon%20espace%20de%20partage%20et%20d'apprentissage.png)
+![Page d'accueil](asset/accueil.png)
 
 ### Page À propos
-![À propos](asset/Screenshot%202026-04-13%20at%2015-58-57%20%C3%80%20propos%20%E2%80%93%20Blog%20de%20Nordine.png)
+![À propos](asset/a-propos.png)
 
 ### Article — Technologie
-![Article Technologie](asset/Screenshot%202026-04-13%20at%2015-58-22%20WordPress%20l'outil%20qui%20a%20r%C3%A9volutionn%C3%A9%20la%20cr%C3%A9ation%20de%20sites%20web%20%E2%80%93%20Blog%20de%20Nordine.png)
+![Article Technologie](asset/article-wordpress.png)
 
 ### Article — Actualités
-![Article PSG](asset/Screenshot%202026-04-13%20at%2015-58-32%20Le%20PSG%20Champion%20d'Europe%20!%20Une%20nuit%20historique%20pour%20Paris%20%E2%80%93%20Blog%20de%20Nordine.png)
+![Article PSG](asset/article-psg.png)
 
 ---
 
